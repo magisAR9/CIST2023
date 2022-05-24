@@ -11,11 +11,17 @@ Quelles difficultés d’apprentissage soulève la diversification des sources d
     les rapports entre informations territorialisées et capacité d’apprentissage des acteurs ;
     l’essor des sciences participatives et des citoyenne·s capteurs.
 
-**Donner à voir l'information territoriale à l'heure de l'opendata et du big data : défis techniques et méthodologiques**
+**Donner à voir l'information territoriale à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques**
+**Apprendre des territoires à l'heure de la (géo)visualisation : défis techniques et méthodologiques**
 
 On pourrait faire une session très ouverte à la fois axée sur les enjeux de cartographie et géovisualisation de toutes ces données territoriales et aussi ouvrir aux questions de préparation de données / analyse comme discuté à Grenoble
 
 et ce que cela permet pour soit "montrer un territoire", soit "apprendre des territoires" soit "faire apprendre sur des territoires" soit aussi "porter à connaissance sur les territoires" (sous-entendant des questions juridiques) avec aussi une possibilité allant jusqu'à la résolution de conflits géopolitiques (la question de frontières affichées ou non sur des territoires donnés à voir en ligne).
+
+CovidTracker (effort de vulgarisation et de mise en forme, pédagogie)
+OSM TchouTchou
+GeoTribut et Opendata IGN
+FrancePixels
 
 
 - Les questions d'accessibilité aux données
@@ -24,5 +30,7 @@ et ce que cela permet pour soit "montrer un territoire", soit "apprendre des ter
 - Les modes de représentation (carto)graphiques de ces données
 - Dimensions temporelles et dynamiques
 - Interactivité entre utilisateurs et données
+- Logiques d'acteurs (institutionnel vs privé vs associatif)
+- L'appropriation des outils en ligne
 
 
