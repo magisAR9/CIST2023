@@ -1,41 +1,37 @@
-# CIST2023
-Préparation d'une Session de l'AR9
+# Donner à voir les territoires à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques
 
-https://cist2023.sciencesconf.org/resource/page/id/4
+**Proposition de session spécifique** pour le colloque du ![CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/resource/page/id/4).</p>
+Cette session émane de l'Action de Recherche (carto)graphies et (géo)visualisation de Données (AR9) du GdR MAGIS.</br>
+Porteurs pour l'AR9 : Françoise Bahoken, Etienne Côme et Boris Mericskay.
 
+Cette session souhaite s'inscrire dans l'axe Information territoriale locale (INFTER) du CIST.
 
-INFTER (Information territoriale locale)
+## Description
+L'objectif de cette session est de discuter des enjeux et des défis sociaux, techniques et méthodologiques liées à la (géo)visualisation de données territoriales. 
+Elle s'intéresse à la cartographie contemporaine de visualisation et d’information dans toutes ses dimensions, avec une dimension réflexive forte sur le document  produit, en raison de sa fonction de médiation. 
 
-Quelles difficultés d’apprentissage soulève la diversification des sources de données locales, qu’elles soient générées par la révolution numérique, par la résolution de plus en plus fine des capteurs techniques, par le mouvement d’ouverture des données, etc. ? Des sessions pourraient porter sur :
+L'objectif général est de contribuer à "apprendre" des territoires par la (géo)visualisation. Aussi à "faire apprendre sur des territoires", en communiquant par la carte à différents publics une information thématique localisée ; à "porter à connaissance sur un territoire" un document administratif en lien avec des questions juridiques ; oun encore "en donnant à voir" le fonctionnement des services publics et au-delà, rendre visible par la donnée l'invisible sur le territoire. Il s'agira  notamment d'examiner le rôle des supports et dispositifs collaboratifs ou non, l'importance des approches pédagogiques, de synthèse d'information dans les transferts d'informations cartographiées entre la société civile et l'Etat et inversement - comme dans le cas des initiatives de OSM TchouTchou localisant des trains ou de GeoTribu donnant à voir la BD TOPO en Opendata, respectivement reprises par la SNCF et l'IGN.
 
-    les rapports entre informations territorialisées et capacité d’apprentissage des acteurs ;
-    l’essor des sciences participatives et des citoyenne·s capteurs.
+Les données ainsi données à voir par la carte, le sont selon différentes modalités de représentation qui pourront être discutées. De même que le dispositif en lui-même (supports et plateformes) pourra faire l'objet d'une attention particulière en lien avec les données territoriales, qu'elles émanent de plateformes privées, qu'elles soient publiques et ouvertes ou relèvent de _crowd sourcing_. Quelles difficultés d’apprentissage soulèvent la diversification des sources de données locales ? Quel est le rôle de la révolution numérique (résolution de plus en plus fines des capteurs techniques) ou par le mouvement d’ouverture des données ? 
 
-**Donner à voir l'information territoriale à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques**
+Les propositions pourraient porter sur :
 
-**Donner à voir les territoires à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques**
-
-**Apprendre des territoires à l'heure de la (géo)visualisation de données: défis techniques et méthodologiques**
-
-On pourrait faire une session très ouverte à la fois axée sur les enjeux de cartographie et géovisualisation de toutes ces données territoriales et aussi ouvrir aux questions de préparation de données / analyse comme discuté à Grenoble
-
-et ce que cela permet pour soit "montrer un territoire", soit "apprendre des territoires" soit "faire apprendre sur des territoires" soit aussi "porter à connaissance sur les territoires" (sous-entendant des questions juridiques) avec aussi une possibilité allant jusqu'à la résolution de conflits géopolitiques (la question de frontières affichées ou non sur des territoires donnés à voir en ligne).
-
-Les données produites par les acteurs publics, des entreprises privées ou des initiatives de crowdsoursing.
-
-CovidTracker (effort de vulgarisation et de mise en forme, pédagogie)
-OSM TchouTchou
-GeoTribut et Opendata IGN
-FrancePixels
-
-
+- les rapports entre informations territorialisées et capacité d’apprentissage des acteurs ;
+- l’essor des sciences participatives et des citoyenne·s capteurs.
 - Les questions d'accessibilité aux données
 - La question de la préparation de ces données
-- Analyse critique sur des portails/plateformes
+- Analyse critique des portails/plateformes et dispositifs de présentation et d'exploration de données localisées
 - Les modes de représentation (carto)graphiques de ces données
 - Dimensions temporelles et dynamiques
 - Interactivité entre utilisateurs et données
 - Logiques d'acteurs (institutionnel vs privé vs associatif)
 - L'appropriation des outils en ligne
 
+On pourrait faire une session très ouverte à la fois axée sur les enjeux de cartographie et géovisualisation de toutes ces données territoriales et aussi ouvrir aux questions de préparation de données / analyse comme discuté à Grenoble
+
+
+FrancePixels
+
+
+## Références
 
