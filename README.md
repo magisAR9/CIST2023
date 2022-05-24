@@ -11,7 +11,7 @@ Quelles difficultés d’apprentissage soulève la diversification des sources d
     les rapports entre informations territorialisées et capacité d’apprentissage des acteurs ;
     l’essor des sciences participatives et des citoyenne·s capteurs.
 
-* Donner à voir l'information territoriale à l'heure de l'opendata et du big data : défis techniques et méthodologiques *
+*Donner à voir l'information territoriale à l'heure de l'opendata et du big data : défis techniques et méthodologiques*
 
 On pourrait faire une session très ouverte à la fois axée sur les enjeux de cartographie et géovisualisation de toutes ces données territoriales et aussi ouvrir aux questions de préparation de données / analyse comme discuté à Grenoble
 
