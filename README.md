@@ -12,7 +12,8 @@ Quelles difficultés d’apprentissage soulève la diversification des sources d
     l’essor des sciences participatives et des citoyenne·s capteurs.
 
 **Donner à voir l'information territoriale à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques**
-**Apprendre des territoires à l'heure de la (géo)visualisation : défis techniques et méthodologiques**
+
+**Apprendre des territoires à l'heure de la (géo)visualisation de données: défis techniques et méthodologiques**
 
 On pourrait faire une session très ouverte à la fois axée sur les enjeux de cartographie et géovisualisation de toutes ces données territoriales et aussi ouvrir aux questions de préparation de données / analyse comme discuté à Grenoble
 
