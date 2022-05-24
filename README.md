@@ -14,3 +14,5 @@ Quelles difficultés d’apprentissage soulève la diversification des sources d
 * Donner à voir l'information territoriale à l'heure de l'opendata et du big data : défis techniques et méthodologiques *
 
 On pourrait faire une session très ouverte à la fois axée sur les enjeux de cartographie et géovisualisation de toutes ces données territoriales et aussi ouvrir aux questions de préparation de données / analyse comme discuté à Grenoble
+
+et ce que cela permet pour soit "montrer un territoire", soit "apprendre des territoires" soit "faire apprendre sur des territoires" soit aussi "porter à connaissance sur les territoires" (sous-entendant des questions juridiques) avec aussi une possibilité allant jusqu'à la résolution de conflits géopolitiques (la question de frontières affichées ou non sur des territoires donnés à voir en ligne).
