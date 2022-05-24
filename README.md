@@ -1,2 +1,2 @@
 # CIST2023
-Session de l'AR9
+Préparation d'un Session de l'AR9
