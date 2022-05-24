@@ -18,9 +18,11 @@ On pourrait faire une session très ouverte à la fois axée sur les enjeux de c
 et ce que cela permet pour soit "montrer un territoire", soit "apprendre des territoires" soit "faire apprendre sur des territoires" soit aussi "porter à connaissance sur les territoires" (sous-entendant des questions juridiques) avec aussi une possibilité allant jusqu'à la résolution de conflits géopolitiques (la question de frontières affichées ou non sur des territoires donnés à voir en ligne).
 
 
-*Les questions d'accessibilité aux données
-*La question de la préparation de ces données
-*Analyse critique sur des portails/plateformes
-*Les modes de représentation
+- Les questions d'accessibilité aux données
+- La question de la préparation de ces données
+- Analyse critique sur des portails/plateformes
+- Les modes de représentation (carto)graphiques de ces données
+- Dimensions temporelles et dynamiques
+- Interactivité entre utilisateurs et données
 
 
