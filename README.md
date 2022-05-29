@@ -1,7 +1,7 @@
 # Donner à voir les territoires à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques
 
 **Proposition de session spécifique** pour le colloque du ![CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/resource/page/id/4).</p>
-Cette session émane de l'Action de Recherche (carto)graphies et (géo)visualisation de Données (AR9) du GdR MAGIS.</br>
+Cette session est portée par l'Action de Recherche (carto)graphies et (géo)visualisation de Données (AR9) du GdR MAGIS.</br>
 Porteurs pour l'AR9 : Françoise Bahoken, Etienne Côme et Boris Mericskay.
 
 Cette session souhaite s'inscrire dans l'axe Information territoriale locale (INFTER) du CIST.
@@ -28,12 +28,6 @@ Les propositions pourraient porter sur :
 - Interactivité entre utilisateurs et données
 - Logiques d'acteurs (institutionnel vs privé vs associatif)
 - L'appropriation des outils en ligne
-
-On pourrait faire une session très ouverte à la fois axée sur les enjeux de cartographie et géovisualisation de toutes ces données territoriales et aussi ouvrir aux questions de préparation de données / analyse comme discuté à Grenoble
-
-
-FrancePixels
-
 
 ## Références
 
