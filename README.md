@@ -19,7 +19,6 @@ Les données ainsi données à voir par la carte, le sont selon différentes mod
 Les propositions pourraient porter sur :
 
 - les rapports entre informations territorialisées et capacité d’apprentissage des acteurs ;
-- l’essor des sciences participatives et des citoyenne·s capteurs.
 - Les questions d'accessibilité aux données
 - La question de la préparation de ces données
 - Analyse critique des portails/plateformes et dispositifs de présentation et d'exploration de données localisées
