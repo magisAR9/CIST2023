@@ -1,13 +1,13 @@
 # Donner à voir les territoires à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques
 
 ## Proposition de session spécifique
-pour le colloque du ![CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/resource/page/id/4).</p>
+pour le colloque du [CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/).</p>
 
 
 ## Co-animateurs de la session :
 
 Françoise Bahoken1, Etienne Côme2 et Boris Mericskay3
-1. Université Gustave Eiffel, Département Aménagement Mobilités Environnement (UGE/AME-Splott) ; </br> associée UMR/Géographie-Cités/PARIS.</br>
+1. Université Gustave Eiffel, Département Aménagement Mobilités Environnement (UGE/AME-Splott) ; </br> associée CNRS UMR Géographie-Cités/PARIS.</br>
 <francoise.bahoken@univ-eiffel.fr>
 2. Université Gustave Eiffel, Département Composants et Systèmes (UGE/COSYS-Grettia).</br> <etienne.come@univ-eiffel.fr>
 3. Université de Rennes 2, CNRS UMR 6590 ESO Espaces et sociétés.</br> <boris.mericskay@univ-rennes2.fr>
