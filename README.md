@@ -21,6 +21,8 @@ A l’heure du big data et de l'open data, l’un des principaux défis pour les
 Cette session porte sur les enjeux et les défis sociaux, techniques et méthodologiques liées à la (géo)visualisation de données territoriales. 
 Elle s'intéresse à la cartographie contemporaine de visualisation et d’information dans toutes ses dimensions, avec une dimension réflexive forte sur les dispositifs  techniques produits, en raison de leur fonction de médiation. L'objectif général de la session est de  discuter de comment les applications de (géo)visualisation permettent d'"apprendre", de "faire apprendre" et de "porter à connaissance" (sur) les territoires, en donnant à voir sous de multiples formes le fonctionnement et les dynamiques en présence par le traitement, l'exploration, l'interaction et la représentation de données localisées. La masse d'informations hétérogènes ainsi révélées, vulgarisées et éditorialisées par la (géo)visualisation le sont selon différentes modalités de représentation qui pourront être discutées. De même que les dispositifs de médiation développés (plateforme cartographique, tableau de bord, visualiseur...) pourront faire l'objet d'une attention particulière, qu'ils émanent de structures publiques, privées ou relèvent d'initiatives associatives ou académiques. 
 
+## Suggestions
+
 Les propositions pourront porter sur :
 
 - Les rapports entre informations territorialisées et capacité d’apprentissage des acteurs ;
@@ -59,11 +61,11 @@ Kitchin R., Alauriault T.P., & MacArdle G. (2017). Data and the City. Routledge.
 
 Cette session s'inscrit dans le cadre de **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)). Elle s'inscrit égallement dans le projet de recherche [GEOVIZ-URBA ](https://www.mshb.fr/projets_mshb/geoviz-urba/6768/) financé par la Maison des Sciences de l'Homme de Bretagne. L'objectif est à la fois d'arrimer et d'élargir les réseaux de recherche et de fédérer un collectif interinstitutionnel et pluridisciplinaire de chercheurs intéressés par ces questions.
 
-En terme de valorisation de la session, une sélection des communications présentées pourra faire l'objet d'un numéro spécial de revue ou d'un ouvrage.
+En termes de valorisation de la session, une sélection des communications présentées pourra faire l'objet d'un numéro spécial de revue ou d'un ouvrage.
 
  ## Individus, équipes ou laboratoires visés
  
- Tous les chercheurs travaillant autour des question de géovisualisation de données territoriales issus de diverses disciplines (géographie, géomatique, aménagement, informatique, sciences de l'information et de la communication...).
+Les personnes inscrites sur la liste de diffusion de l'AR9 (une centaine à ce jour). Les ingénieur.e.s et chercheur.eu.s travaillant autour des questions de (géo)visualisation de données territoriales issus de diverses disciplines (géographie, démographie, statistiques, aménagement, géomatique, informatique, sciences de l'information et de la communication...).
  
  
  
