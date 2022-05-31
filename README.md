@@ -67,3 +67,22 @@ En terme de valorisation de la session, une sélection des communications prése
  
  
  
+ ## EN version
+ 
+ ### Making territories visible in the era of opendata and big data: social, technical and methodological challenges
+ 
+In the era of big data and open data, one of the main challenges for territorial managers is to be able to make sense of the territories, to make these masses of increasingly voluminous information more accessible and usable. On the one hand, to make raw data intelligible, in order to perceive and interpret the complexity of territorial systems and to enlighten decision-making. And on the other hand, to communicate with citizens in a comprehensible and innovative way. In response to these expectations, data (geo)visualization in the form of graphs, maps or dashboards is a relevant and dynamic approach. However, (geo)visualization, as a step in the life cycle of territorial data, cannot be limited to (carto)graphic representations from tools. It seems necessary to question the semiological and cognitive dimensions as well as the technical and graphic dimensions of these representations and the devices involved. Moreover, the interactions and manipulations carried out via and on these interfaces must also be studied and analyzed in order to extract knowledge on the uses of these platforms.
+
+This session deals with the social, technical and methodological issues and challenges related to territorial data (geo)visualization. 
+It focuses on contemporary cartography of visualization and information in all its dimensions, with a strong reflexive dimension on the technical devices produced, because of their mediation function. The general objective of the session is to discuss how (geo)visualization applications allow to "learn", to "make learn" and to "bring to knowledge" (on) the territories, by giving to see under multiple forms the functioning and the dynamics in presence by the preparation, the exploration, the interaction and the representation of spatial data. The mass of heterogeneous information thus revealed, popularized and editorialized by (geo)visualization is done according to different modalities of representation that can be discussed. Likewise, the mediation devices developed (WebGIS, dashboard, map visualizer, etc.) may be the subject of particular attention, whether they emanate from public or private structures or are the result of associative or academic initiatives. 
+
+Proposals may focus on :
+
+- The relationship between territorialized information and the learning capacity of actors;
+- Questions of data accessibility
+- The question of data preparation 
+- Critical analysis of portals/platforms and devices of presentation and exploration of spatial data
+- The modes of (carto)graphic representation of these data
+- Forms of interactivity between users and data
+- Logics of actors (institutional vs private vs associative)
+- The appropriation of online tools
