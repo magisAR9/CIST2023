@@ -29,3 +29,22 @@ Les propositions pourraient porter sur :
 
 ## Références
 
+Dykes, J., MacEachren, A. M., & Kraak, M. J. (2005). Exploring geovisualization. Elsevier.
+
+Elwood, S. (2009). Geographic Information Science: new geovisualization technologies—emerging questions and linkages with GIScience research. Progress in Human Geography, 33(2), 256-263.
+
+Hemmersam, P., Martin, N., Westvang, E., Aspen, J., & Morrison, A. (2015). Exploring urban data visualization and public participation in planning. Journal of Urban Technology, 22(4), 45-64
+
+Kitchin, R., Maalsen, S., & McArdle, G. (2016). The praxis and politics of building urban dashboards. Geoforum, 77, 93-101.
+
+MacEachren, A. M., & Kraak, M. J. (2001). Research challenges in geovisualization. Cartography and geographic information science, 28(1), 3-12.
+Shneiderman, B. (1996, September). The eyes have it: A task by data type taxonomy for information visualizations. In Proceedings 1996 IEEE symposium on visual languages (pp. 336-343). IEEE.
+
+Thakuriah, P. V., Tilahun, N. Y., & Zellner, M. (2017). Big data and urban informatics: innovations and challenges to urban planning and knowledge discovery. In Seeing cities through big data (pp. 11-45). Springer, Cham.
+
+Victorelli, E. Z., Dos Reis, J. C., Hornung, H., & Prado, A. B. (2020). Understanding human-data interaction: Literature review and recommendations for design. International Journal of Human-Computer Studies, 134, 13-32.
+
+Wang, L., Wang, G., & Alexander, C. A. (2015). Big data and visualization: methods, challenges and technology progress. Digital Technologies, 1(1), 33-38.
+Kitchin R., Alauriault T.P., & MacArdle G. (2017). Data and the City. Routledge.
+
+
