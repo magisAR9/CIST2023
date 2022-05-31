@@ -2,9 +2,10 @@
 
 ## Proposition de session spécifique
 pour le colloque du ![CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/resource/page/id/4).</p>
-Cette session est portée par **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)).</br>
 
-Représentant.e.s de l’AR9 : 
+
+## Co-animateurs de la session :
+
 Françoise Bahoken1, Etienne Côme2 et Boris Mericskay3
 1. Université Gustave Eiffel, Département Aménagement Mobilités Environnement (UGE/AME-Splott) ; </br> associée UMR/Géographie-Cités/PARIS.</br>
 <francoise.bahoken@univ-eiffel.fr>
@@ -31,7 +32,6 @@ Les propositions pourront porter sur :
 - Logiques d'acteurs (institutionnel vs privé vs associatif)
 - L'appropriation des outils en ligne
 
-Une sélection des communications présentées pourra faire l'objet d'un numéro spécial de revue ou d'un ouvrage.
 
 ## Références
 
@@ -54,3 +54,9 @@ Wang, L., Wang, G., & Alexander, C. A. (2015). Big data and visualization: metho
 Kitchin R., Alauriault T.P., & MacArdle G. (2017). Data and the City. Routledge.
 
 
+
+## Pistes de valorisation
+
+Cette session s'inscrit dans **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)).</br>. Elle s'inscrit égallement dans le projet de recherche GEOVIZ-URBA  (Géo)Visualisation de données urbaines) financé par la Maison des Sciences de l'Homme de Bretagne. 
+
+Cette sélection s'insUne sélection des communications présentées pourra faire l'objet d'un numéro spécial de revue ou d'un ouvrage.
