@@ -69,7 +69,7 @@ En terme de valorisation de la session, une sélection des communications prése
  
  ## EN version
  
- ### Making territories visible in the era of opendata and big data: social, technical and methodological challenges
+ ### Making territories visible in the era of opendata and big data: social, technical and methodological issues
  
 In the era of big data and open data, one of the main challenges for territorial managers is to be able to make sense of the territories, to make these masses of increasingly voluminous information more accessible and usable. On the one hand, to make raw data intelligible, in order to perceive and interpret the complexity of territorial systems and to enlighten decision-making. And on the other hand, to communicate with citizens in a comprehensible and innovative way. In response to these expectations, data (geo)visualization in the form of graphs, maps or dashboards is a relevant and dynamic approach. However, (geo)visualization, as a step in the life cycle of territorial data, cannot be limited to (carto)graphic representations from tools. It seems necessary to question the semiological and cognitive dimensions as well as the technical and graphic dimensions of these representations and the devices involved. Moreover, the interactions and manipulations carried out via and on these interfaces must also be studied and analyzed in order to extract knowledge on the uses of these platforms.
 
