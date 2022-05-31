@@ -57,6 +57,13 @@ Kitchin R., Alauriault T.P., & MacArdle G. (2017). Data and the City. Routledge.
 
 ## Pistes de valorisation
 
-Cette session s'inscrit dans **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)). Elle s'inscrit égallement dans le projet de recherche [GEOVIZ-URBA ](https://www.mshb.fr/projets_mshb/geoviz-urba/6768/) (Géo)Visualisation de données urbaines) financé par la Maison des Sciences de l'Homme de Bretagne. 
+Cette session s'inscrit dans le cadre de **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)). Elle s'inscrit égallement dans le projet de recherche [GEOVIZ-URBA ](https://www.mshb.fr/projets_mshb/geoviz-urba/6768/) financé par la Maison des Sciences de l'Homme de Bretagne. L'objectif est à la fois d'arrimer et d'élargir les réseaux de recherche et de fédérer un collectif interinstitutionnel et pluridisciplinaire de chercheurs intéressés par ces questions.
 
-Cette sélection s'insUne sélection des communications présentées pourra faire l'objet d'un numéro spécial de revue ou d'un ouvrage.
+En terme de valorisation de la session, une sélection des communications présentées pourra faire l'objet d'un numéro spécial de revue ou d'un ouvrage.
+
+ ## Individus, équipes ou laboratoires visés
+ 
+ Tous les chercheurs travaillant autour des question de géovisualisation de données territoriales issus de diverses disciplines (géographie, géomatique, aménagement, informatique, sciences de l'information et de la communication...).
+ 
+ 
+ 
