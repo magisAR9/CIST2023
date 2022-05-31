@@ -2,14 +2,17 @@
 
 ## Proposition de session spécifique
 pour le colloque du ![CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/resource/page/id/4).</p>
-Cette session est portée par **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)).</br>
+Cette session est portée par **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)).
 
-Représentant.e.s de l’AR9 : 
-Françoise Bahoken1, Etienne Côme2 et Boris Mericskay3
-1. Université Gustave Eiffel, Département Aménagement Mobilités Environnement (UGE/AME-Splott) ; </br> associée UMR/Géographie-Cités/PARIS.</br>
-<francoise.bahoken@univ-eiffel.fr>
-2. Université Gustave Eiffel, Département Composants et Systèmes (UGE/COSYS-Grettia).</br> <etienne.come@univ-eiffel.fr>
-3. Université de Rennes 2, CNRS UMR 6590 ESO Espaces et sociétés.</br> <boris.mericskay@univ-rennes2.fr>
+Représentant.e.s de l’AR9 : </br>
+Françoise Bahoken(1), Etienne Côme(2) et Boris Mericskay(3)
+
+1. Université Gustave Eiffel, Département Aménagement Mobilités Environnement (UGE/AME-Splott) ;
+associée UMR/Géographie-Cités/PARIS. <francoise.bahoken@univ-eiffel.fr>
+3. Université Gustave Eiffel, Département Composants et Systèmes (UGE/COSYS-Grettia).
+<etienne.come@univ-eiffel.fr>
+3. Université de Rennes 2, CNRS UMR 6590 ESO Espaces et sociétés.
+<boris.mericskay@univ-rennes2.fr>
 
 Cette session souhaite s'inscrire dans l'axe Information territoriale locale (INFTER) du CIST.
 
