@@ -1,4 +1,4 @@
-# Géovisualisation à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques de son apprentissage
+# Géovisualisation des données du territoire à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques de son apprentissage
 
 ## Proposition de session spécifique
 pour le colloque du [CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/).</p>
@@ -20,20 +20,20 @@ A l’heure du big data et de l'open data, l’un des principaux défis pour les
 Cette session porte sur les enjeux et les défis sociaux, techniques et méthodologiques liées à la (géo)visualisation de données territoriales, dans un contexte d’apprentissage ou de formation. Elle s'intéresse à la cartographie contemporaine de visualisation et d’information dans toutes ses dimensions, avec une dimension réflexive forte sur les dispositifs techniques produits, en raison de leur fonction de médiation. L'objectif général de la session est de discuter de comment les applications de (géo)visualisation permettent d'"apprendre", de "faire apprendre" et de "porter à connaissance" (sur) les territoires, en donnant à voir sous de multiples formes le fonctionnement et les dynamiques en présence par le traitement, l'exploration, l'interaction et la représentation de données localisées. La masse d'informations hétérogènes ainsi révélées, vulgarisées et éditorialisées par la (géo)visualisation le sont selon différentes modalités de représentation qui pourront être discutées. De même que les dispositifs de médiation développés (plateforme cartographique, tableau de bord, visualiseur ...) pourront faire l'objet d'une attention particulière, qu'ils émanent de structures publiques, privées ou relèvent d'initiatives associatives ou académiques. 
 
 
-## Suggestions
+## Questionnements et types de propositions
 
-En quoi les données massives et les outils de géovisualisation permettent-ils d'apprendre et de faire apprendre sur un territoire ? Y a-t-il des visions erronées ou détournées qui en découlent, ou non ? La géovisualisation permet-elle de requestionner l’objectivité de la représentation des territoires ? Réduit-elle l’illusion d'un  « territoire tout fait » ?
+En quoi les données massives et les outils de géovisualisation permettent-ils d'apprendre et de faire apprendre sur un territoire ? Y a-t-il des visions erronées ou détournées qui en découlent, ou non ? La nouvelle instrumentation et les nouveaux modes de représentation des données territoriales participent-ils à renouveller les modalités de "porter à connaissances" des territoires ? La géovisualisation permet-elle de requestionner l’objectivité de la représentation des territoires ? Réduit-elle l’illusion d'un  « territoire tout fait » ?
 
-Les propositions pourront porter sur :
+Afin de répondre à ces questions les propositions pourront porter sur :
 
-- Les rapports entre informations territorialisées et capacité d’apprentissage des acteurs ;
+- Les rapports entre informations territorialisées et capacités d’apprentissage et de compréhension des parties prenantes (citoyens, spécialistes, élus) ;
 - Les questions de disponibilité et d'accessibilité des données
-- La question de la préparation de ces données par des novices
-- Analyse critique des usages des portails/plateformes et des dispositifs de présentation et d'exploration de données localisées
-- L'appropriation des modes de représentation (carto)graphiques de ces données
-- Les formes d'interactivité entre utilisateurs et données, utilisateurs et graphiques
-- Logiques d'acteurs (institutionnel vs privé vs associatif) dans la mise à disposition d’outils dédiés à l’apprentissage
-- L'appropriation individuelle des outils en ligne (dans un objectif de formation)
+- Analyse critique des usages des portails/plateformes et des dispositifs de présentation et d'exploration de données territoriales
+- Les formes d'interactivité entre utilisateurs et données, utilisateurs et graphiques qui peuvent favoriser la coppréhension des territoires
+- Les logiques d'acteurs (institutionnel vs privé vs associatif) dans la mise à disposition d’outils dédiés à la compréhension des territoires
+- Les enjeux de litteracie (géo)numériques dans l'appropriation et l'utilisation d'outils de géovisualisation dans la compréhension des territoire
+- Les enjeux en termes de formation des (futurs) praticiens dans l'appropriation des instruments de géovislusalisation
+
 
 ## Références
 
@@ -77,17 +77,18 @@ In the era of big data and open data, one of the main challenges for territorial
 
 This session deals with the social, technical and methodological issues and challenges related to territorial data (geo)visualization. It focuses on contemporary cartography of visualization and information in all its dimensions, with a strong reflexive dimension on the technical devices produced, because of their mediation function. The general objective of the session is to discuss how (geo)visualization applications allow to "learn", to "make learn" and to "bring to knowledge" (on) the territories, by giving to see under multiple forms the functioning and the dynamics in presence by the preparation, the exploration, the interaction and the representation of spatial data. The mass of heterogeneous information thus revealed, popularized and editorialized by (geo)visualization is done according to different modalities of representation that can be discussed. Likewise, the mediation devices developed (WebGIS, dashboard, map visualizer, etc.) may be the subject of particular attention, whether they emanate from public or private structures or are the result of associative or academic initiatives.
 
-### Suggestions
+## Questions and types of proposals
 
-How do massive data and geovisualisation tools allow us to learn and make people learn about a territory? Are there erroneous or distorted visions that result from them or not? Does geovisualisation make it possible to question the objectivity of territorial representation? Does it reduce the illusion of a "ready-made territory"?
+In what way do massive data and geovisualization tools allow us to learn and make people learn about a territory? Are there erroneous or distorted visions that result from them or not? Do the new instrumentation and the new modes of representation of territorial data contribute to renewing the modalities of "bringing knowledge" to the territories? Does geovisualization allow us to question the objectivity of the representation of territories? Does it reduce the illusion of a "ready-made territory"?
 
-Proposals may focus on :
+In order to answer these questions, the proposals could focus on
 
--	The relationship between territorialized information and the learning capacity of actors.
--	Questions of data availability and accessibility
--	The question of data preparation
--	Critical analysis of portals/platforms’ users and devices of presentation and exploration of spatial data
--	Appropriation of Tthe modes of the (carto)graphic representation of these data
--	Forms of interactivity between users and data, users and graphics
--	Logics of actors (institutional vs private vs associative) for learning purposes
--	The individual appropriation of online tools
+- The relationship between territorialized information and the learning and understanding capacities of the stakeholders (citizens, specialists, elected officials);
+- The questions of availability and accessibility of data
+- Critical analysis of the uses of portals/platforms and devices of presentation and exploration of territorial data
+- The forms of interactivity between users and data, users and graphics that can promote the co-understanding of territories
+- The logics of actors (institutional vs. private vs. associative) in the provision of tools dedicated to the understanding of territories
+- The stakes of (geo)digital literacy in the appropriation and use of geovisualization tools in the understanding of territories
+- The stakes in terms of training of (future) practitioners in the appropriation of geovisualization tools
+
+Translated with www.DeepL.com/Translator (free version)
