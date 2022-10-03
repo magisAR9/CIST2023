@@ -90,5 +90,3 @@ In order to answer these questions, the proposals could focus on
 - The logics of actors (institutional vs. private vs. associative) in the provision of tools dedicated to the understanding of territories
 - The stakes of (geo)digital literacy in the appropriation and use of geovisualization tools in the understanding of territories
 - The stakes in terms of training of (future) practitioners in the appropriation of geovisualization tools
-
-Translated with www.DeepL.com/Translator (free version)
