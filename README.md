@@ -3,6 +3,8 @@
 ## Proposition de session spécifique
 pour le colloque du [CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/).</p>
 
+> Accéder à la [Session N](https://cist2023.sciencesconf.org/resource/page/id/24) sur le site du colloque
+
 ## Co-animateurs de la session :
 
 Françoise Bahoken1, Etienne Côme2 et Boris Mericskay3
