@@ -1,10 +1,14 @@
 ## Donner à voir les territoires à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques
 
-## Proposition de session spécifique
-pour le colloque du ![CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/resource/page/id/4).</p>
+## [Session N](https://cist2023.sciencesconf.org/resource/page/id/24)
+au sein du colloque du ![CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/resource/page/id/4).</p>
 Cette session est portée par **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)).
 
-Représentant.e.s de l’AR9 : </br>
+:arrow_forward: [Déposer une proposition de communication](https://cist2023.sciencesconf.org/index/unauthorized) </br>
+(_Attention, vous devez disposer d'un compte sur la plateforme Sciencesconf_) </br> </br>
+
+
+**Représentant.e.s de l’AR9 :** </br>
 Françoise Bahoken(1), Etienne Côme(2) et Boris Mericskay(3)
 
 1. Université Gustave Eiffel, Département Aménagement Mobilités Environnement (UGE/AME-Splott) ;
