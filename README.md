@@ -1,94 +1,68 @@
-# Géovisualisation des données à l'heure de l'opendata et du big data : défis sociaux, techniques et méthodologiques pour la compréhension des territoires
+# Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques
 
-## Proposition de session spécifique
-pour le colloque du [CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/).</p>
+**Session organisée par l'AR9Magis au colloque du [CIST2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/)**. </p>
+_Cette session est finalement co-organisée avec l'axe Information territoriale locale (INFTER) du CIST_ 
 
-> Accéder à la [Session N](https://cist2023.sciencesconf.org/resource/page/id/24) sur le site du colloque
+> Accéder à l'argumentaire de la [Session L/N](https://cist2023.sciencesconf.org/resource/page/id/29) sur le site du colloque
 
-## Co-animateurs de la session :
+## Co-porteur.e.s :
 
-Françoise Bahoken1, Etienne Côme2 et Boris Mericskay3
-1. Université Gustave Eiffel, Département Aménagement Mobilités Environnement (UGE/AME-Splott) ; </br> associée CNRS UMR Géographie-Cités/PARIS.</br>
-<francoise.bahoken@univ-eiffel.fr>
-2. Université Gustave Eiffel, Département Composants et Systèmes (UGE/COSYS-Grettia).</br> <etienne.come@univ-eiffel.fr>
-3. Université de Rennes 2, CNRS UMR 6590 ESO Espaces et sociétés.</br> <boris.mericskay@univ-rennes2.fr>
+– **Au titre de l'AR9** : Françoise BAHOKEN (Univ. Gustave Eiffel, Département Aménagement Mobilités Environnement AME-splott), Etienne CÔME (Univ. Gustave Eiffel, Département Composants et Systèmes COSYS-Grettia), Boris MERICSKAY (Univ. de Rennes 2, CNRS UMR 6590 ESO Espaces et sociétés) </br> 
+– **Au titre de l'Axe INFTER** : Sylvestre DUROUDIER (Univ. Panthéon Sorbonne Paris 1, UMR 8504 Géographie-Cités), Julie FEN-CHONG (Univ. de Bourgogne, UMR THEMA) et Françoise LUCCHINI (Univ. de Rouen, UMR IDEES).
 
-Cette session souhaite s'inscrire dans l'axe Information territoriale locale (INFTER) du CIST.
+## Programme
 
-## Description
+**Jeudi 17 Novembre 2023 de 10h30 à 12h00**
 
-A l’heure du big data et de l'open data, l’un des principaux défis pour les gestionnaires des territoires est de pouvoir fournir du sens sur les territoires, de rendre plus accessibles et exploitables ces masses d’informations toujours plus volumineuses. D’une part pour rendre intelligibles des données brutes, afin de percevoir et d’interpréter la complexité des systèmes territoriaux et éclairer les prises de décisions. Et d’autre part, pour communiquer auprès des citoyens de manière compréhensible et innovante. En réponse à ces attentes, la (géo)visualisation de données sous la forme de graphiques, de cartes ou de tableaux de bords est une approche pertinente et dynamique. Toutefois, la (géo)visualisation, comme étape dans le cycle de vie des données territoriales, ne saurait se limiter aux représentations (carto)graphiques issues d'outils. Il apparaît en ce sens nécessaire de s’interroger tant sur les dimensions sémiologiques et cognitives que techniques et graphiques de ces représentations et les dispositifs impliqués. De plus, les interactions et manipulations réalisées via et sur ces interfaces doivent également être étudiées et analysées afin d’extraire des connaissances sur les usages de ces plateformes.
+› 10:35-10:55 (20min) </br> [Mettre en visibilité le fonctionnement des territoires scolaires. Les défis posés par la cartographie des données en éducation](https://cist2023.sciencesconf.org/457013) </br>- **Sylvain Genevois** (Université de la Réunion, INSPE)  </br>
 
-Cette session porte sur les enjeux et les défis sociaux, techniques et méthodologiques liées à la (géo)visualisation de données territoriales, dans un contexte d’apprentissage ou de formation. Elle s'intéresse à la cartographie contemporaine de visualisation et d’information dans toutes ses dimensions, avec une dimension réflexive forte sur les dispositifs techniques produits, en raison de leur fonction de médiation. L'objectif général de la session est de discuter de comment les applications de (géo)visualisation permettent d'"apprendre", de "faire apprendre" et de "porter à connaissance" (sur) les territoires, en donnant à voir sous de multiples formes le fonctionnement et les dynamiques en présence par le traitement, l'exploration, l'interaction et la représentation de données localisées. La masse d'informations hétérogènes ainsi révélées, vulgarisées et éditorialisées par la (géo)visualisation le sont selon différentes modalités de représentation qui pourront être discutées. De même que les dispositifs de médiation développés (plateforme cartographique, tableau de bord, visualiseur ...) pourront faire l'objet d'une attention particulière, qu'ils émanent de structures publiques, privées ou relèvent d'initiatives associatives ou académiques. 
+› 10:55-11:15 (20min) </br> [Les observatoires locaux de la vie associative (OLVA), éléments d'une gouvernance territoriale partagée](https://cist2023.sciencesconf.org/444451) </br> - **Améle Artis** (Sciences Po Grenoble, UGA), **Luciana Ribeiro** (Sciences Po Grenoble - Institut d'études politiques de Grenoble) et **Sylvain Rigaud** (Sciences Po Grenoble - Institut d'études politiques de Grenoble)  </br>
 
+› 11:15-11:35 (20min) </br> [Le cartogramme continu : enseigner les méthodes, comprendre les représentations pour analyser les territoires](https://cist2023.sciencesconf.org/455610) </br> - **Anne-Christine Bronner** (Sociétés, Acteurs, Gouvernement en Europe) et **Dominique Andrieu** (Université de Tours, MSH Val de Loire)  </br>
 
-## Questionnements et types de propositions
+› 11:35-11:55 (20min) </br>
+[Dessiner le territoire de savoir au service du territoire de pouvoir. Exemple des médecins généralistes en France métropolitaine](https://cist2023.sciencesconf.org/457077)  </br> - **Katsiaryna Kananovich** (Laboratoire interdisciplinaire de recherches en sciences de l'action) et **Jean-Marc Macé** (Laboratoire interdisciplinaire de recherche en sciences de l'action)  </br>
 
-En quoi les données massives et les outils de géovisualisation permettent-ils d'apprendre et de faire apprendre sur un territoire ? Y a-t-il des visions erronées ou détournées qui en découlent, ou non ? La nouvelle instrumentation et les nouveaux modes de représentation des données territoriales participent-ils à renouveller les modalités de "porter à connaissances" des territoires ? La géovisualisation permet-elle de requestionner l’objectivité de la représentation des territoires ? Réduit-elle l’illusion d'un  « territoire tout fait » ?
+## Argumentaire de la session L/N
 
-Afin de répondre à ces questions les propositions pourront porter sur :
+La connaissance des territoires, tant sur les plans scientifique que pédagogique et opérationnel, est étroitement liée à l’information mobilisée pour les identifier, les décrire et les analyser. Ce lien ancien entre territoire et apprentissage est aujourd’hui renouvelé au sein des sciences de l’information géographique / territoriale et des humanités numériques, grâce à l'émergence de « nouvelles données » géolocalisées et de leurs potentialités d’utilisation dans le geoweb.
 
-- Les rapports entre informations territorialisées et capacités d’apprentissage et de compréhension des parties prenantes (citoyens, spécialistes, élus) ;
-- Les questions de disponibilité et d'accessibilité des données
-- Analyse critique des usages des portails/plateformes et des dispositifs de présentation et d'exploration de données territoriales
-- Les formes d'interactivité entre utilisateurs et données, utilisateurs et graphiques qui peuvent favoriser la coppréhension des territoires
-- Les logiques d'acteurs (institutionnel vs privé vs associatif) dans la mise à disposition d’outils dédiés à la compréhension des territoires
-- Les enjeux de litteracie (géo)numériques dans l'appropriation et l'utilisation d'outils de géovisualisation dans la compréhension des territoire
-- Les enjeux en termes de formation des (futurs) praticiens dans l'appropriation des instruments de géovislusalisation
+L’accès à des données massives ou petites (big / small data), hétérogènes, incertaines ou lacunaires, avec des résolutions spatiotemporelles souvent fines pouvant être issues des réseaux sociaux, de plateformes numériques, de capteurs géolocalisés, d’initiatives participatives ou contributives telles qu’OpenStreetMap (OSM), de sources institutionnelles ouvertes ou d’entreprises privées… pose de nouveaux défis aux gestionnaires des territoires. 
 
+Nous proposons de questionner ces nouveaux défis en lien avec l’enseignement et l’apprentissage sur les territoires. Le principal d’entre eux étant de pouvoir fournir du sens sur les territoires, il s’agit pour cela d’augmenter l’accessibilité des données localisées et de faciliter l'exploitation d’informations toujours plus variées. L’idée étant, d'une part, de rendre intelligibles des données brutes, afin de percevoir, d’interpréter la complexité des systèmes territoriaux et d’éclairer les prises de décisions ; d’autre part, de communiquer auprès des citoyens une information claire et aisément compréhensible.
 
-## Références
+Face à ces attentes, la valorisation de données territoriales dans le cadre de leur (géo)visualisation sous la forme de graphiques, de cartes, d’applications ou de tableaux de bord est une approche pertinente. Elle ne saurait toutefois se limiter aux seules images (carto)graphiques : la (géo)visualisation englobe en effet et nécessairement les questions liées à la collecte des données, à leurs traitements et à leur analyse en vue de leur communication auprès de publics variés. C’est pourquoi il apparaît nécessaire de s’interroger tant sur les dimensions sémiologiques et cognitives que techniques et graphiques de ces représentations, de même que sur les dispositifs impliqués. De plus, les interactions et les manipulations réalisées via et sur ces interfaces doivent également être étudiées et analysées afin d’extraire des connaissances sur leurs usages.
 
-Dykes, J., MacEachren, A. M., & Kraak, M. J. (2005). Exploring geovisualization. Elsevier.
+Cette session est coorganisée par l’Action de recherche (carto)graphies et (géo)visualisation de données (CartoGeoViz) du GDR CNRS MAGIS (AR9magis) et par l’axe Information territoriale locale (INFTER) du CIST. Elle s’intéresse à l’utilisation de données territoriales par des acteurs variés : à leurs exploitations et à leurs usages au sein de dispositifs contemporains d’exploration, de (géo)visualisation et de communication d’informations destinées à des publics aussi variés. Elle revêt une double dimension réflexive sur les méthodes (de collecte, de traitement et de représentation de ces données) et sur les outils et dispositifs, en raison de leur fonction de médiation.
 
-Elwood, S. (2009). Geographic Information Science: new geovisualization technologies—emerging questions and linkages with GIScience research. Progress in Human Geography, 33(2), 256-263.
+La session ambitionne d’échanger sur les enjeux et les défis sociaux, techniques et méthodologiques liés à l’utilisation de données statistiques (thématiques), dans un contexte de formation et d’apprentissage, pour produire de la connaissance sur des espaces territoriaux.
 
-Hemmersam, P., Martin, N., Westvang, E., Aspen, J., & Morrison, A. (2015). Exploring urban data visualization and public participation in planning. Journal of Urban Technology, 22(4), 45-64
+Son objectif général est d’examiner la manière dont l’information issue d’analyses (géo)numériques et cartographiques permet « d'apprendre », de « faire apprendre » et de « porter à connaissance » sur les territoires. Les traitements mis en œuvre, notamment dans le cadre d’applications en ligne, donnent en effet à voir, sous de multiples formes, la structure, le fonctionnement et les dynamiques territoriales en présence. Leurs modalités de (géo)visualisation contemporaine (possibilités d'exploration, d’interaction, d’analyse et de représentation…) seront ainsi discutées, de même que les dispositifs de médiation utilisés (plateforme cartographique, tableau de bord, visualiseur…) pourront faire l’objet d’une attention particulière, qu’ils émanent de structures académiques ou publiques, d’organismes privés ou relèvent d’initiatives associatives.
 
-Kitchin, R., Maalsen, S., & McArdle, G. (2016). The praxis and politics of building urban dashboards. Geoforum, 77, 93-101.
+**Questionnements et types de propositions**
 
-MacEachren, A. M., & Kraak, M. J. (2001). Research challenges in geovisualization. Cartography and geographic information science, 28(1), 3-12.
-Shneiderman, B. (1996, September). The eyes have it: A task by data type taxonomy for information visualizations. In Proceedings 1996 IEEE symposium on visual languages (pp. 336-343). IEEE.
+- Quelles productions de données locales par différents acteurs territoriaux (institutionnels versus privés et associatifs) ? Comment sont-elles articulées aux mailles d’action locale et selon quelles conditions juridiques (droit des données, diffusion, éthique) ?
+- Quelles logiques d’acteurs dans la production et dans la mise à disposition d’outils dédiés à la compréhension des territoires ?
+- Quelles méthodes sont mises en œuvre pour conduire des approches territorialisées décloisonnées, permettant d’articuler différentes dimensions sociales, économiques et environnementales ? Quels nouveaux indicateurs sont créés pour produire de la connaissance locale ?   
+- Quelles utilisations de données locales hétérogènes dans l’enseignement des territoires et leur apprentissage à l’université ? Quels sont les enjeux, les obstacles liés à ces apprentissages ? Quels enjeux de formation des (futurs) praticiens dans l’appropriation des instruments de géovisualisation.
+- Quelles stratégies pédagogiques existent au regard des différents types de données (massives / petites [small / big data], hétérogènes, lacunaires, incertaines…) ? Comment intégrer un questionnement éthique et critique par rapport à cette « ère des données » dans l’enseignement ?
+- La nouvelle instrumentation de (géo)visualisation permet-elle de questionner l’objectivité supposée de la représentation des territoires ? Quels enjeux de compréhension des différents publics (étudiant, citoyens, spécialistes, élus) ? Y a-t-il ou non un risque de visions erronées ou détournées qui découlent de la manipulation de ces données ? Quels enjeux de littéracie (géo)numériques dans l’appropriation et l’utilisation d’outils dans la compréhension des territoires ?
 
-Thakuriah, P. V., Tilahun, N. Y., & Zellner, M. (2017). Big data and urban informatics: innovations and challenges to urban planning and knowledge discovery. In Seeing cities through big data (pp. 11-45). Springer, Cham.
+**Références bibliographiques indicatives**
 
-Victorelli, E. Z., Dos Reis, J. C., Hornung, H., & Prado, A. B. (2020). Understanding human-data interaction: Literature review and recommendations for design. International Journal of Human-Computer Studies, 134, 13-32.
-
-Wang, L., Wang, G., & Alexander, C. A. (2015). Big data and visualization: methods, challenges and technology progress. Digital Technologies, 1(1), 33-38.
-Kitchin R., Alauriault T.P., & MacArdle G. (2017). Data and the City. Routledge.
-
-
-
-## Pistes de valorisation
-
-Cette session s'inscrit dans le cadre de **l'Action de Recherche n°2 (Carto)graphies et (géo)visualisation de Données (AR9)** du Groupement de Recherche pour la Géomatique et l’Information Spatiale (CNRS [GdR MAGIS](https://gdr-magis.imag.fr/)). Elle s'inscrit égallement dans le projet de recherche [GEOVIZ-URBA ](https://www.mshb.fr/projets_mshb/geoviz-urba/6768/) financé par la Maison des Sciences de l'Homme de Bretagne. L'objectif est à la fois d'arrimer et d'élargir les réseaux de recherche et de fédérer un collectif interinstitutionnel et pluridisciplinaire de chercheurs intéressés par ces questions.
-
-En termes de valorisation de la session, une sélection des communications présentées pourra faire l'objet d'un numéro spécial de revue ou d'un ouvrage.
-
- ## Individus, équipes ou laboratoires visés
- 
-Les personnes inscrites sur la liste de diffusion de l'AR9 (une centaine à ce jour). Les ingénieur.e.s et chercheur.eu.s travaillant autour des questions de (géo)visualisation de données territoriales issus de diverses disciplines (géographie, démographie, statistiques, aménagement, géomatique, informatique, sciences de l'information et de la communication...).
- 
- 
- 
- ## EN version
- 
- ### # Geovisualization in the era of opendata and big data: social, technical and methodological challenges for the understanding of territories
- 
-In the era of big data and open data, one of the main challenges for territorial managers is to be able to make sense of the territories, to make these masses of increasingly voluminous information more accessible and usable. On the one hand, to make raw data intelligible, in order to perceive and interpret the complexity of territorial systems and to enlighten decision-making. And on the other hand, to communicate with citizens in a comprehensible and innovative way. In response to these expectations, data (geo)visualization in the form of graphs, maps or dashboards is a relevant and dynamic approach. However, (geo)visualization, as a step in the life cycle of territorial data, cannot be limited to (carto)graphic representations from tools. It seems necessary to question the semiological and cognitive dimensions as well as the technical and graphic dimensions of these representations and the devices involved. Moreover, the interactions and manipulations carried out via and on these interfaces must also be studied and analyzed in order to extract knowledge on the uses of these platforms.
-
-This session deals with the social, technical and methodological issues and challenges related to territorial data (geo)visualization. It focuses on contemporary cartography of visualization and information in all its dimensions, with a strong reflexive dimension on the technical devices produced, because of their mediation function. The general objective of the session is to discuss how (geo)visualization applications allow to "learn", to "make learn" and to "bring to knowledge" (on) the territories, by giving to see under multiple forms the functioning and the dynamics in presence by the preparation, the exploration, the interaction and the representation of spatial data. The mass of heterogeneous information thus revealed, popularized and editorialized by (geo)visualization is done according to different modalities of representation that can be discussed. Likewise, the mediation devices developed (WebGIS, dashboard, map visualizer, etc.) may be the subject of particular attention, whether they emanate from public or private structures or are the result of associative or academic initiatives.
-
-## Questions and types of proposals
-
-In what way do massive data and geovisualization tools allow us to learn and make people learn about a territory? Are there erroneous or distorted visions that result from them or not? Do the new instrumentation and the new modes of representation of territorial data contribute to renewing the modalities of "bringing knowledge" to the territories? Does geovisualization allow us to question the objectivity of the representation of territories? Does it reduce the illusion of a "ready-made territory"?
-
-In order to answer these questions, the proposals could focus on
-
-- The relationship between territorialized information and the learning and understanding capacities of the stakeholders (citizens, specialists, elected officials);
-- The questions of availability and accessibility of data
-- Critical analysis of the uses of portals/platforms and devices of presentation and exploration of territorial data
-- The forms of interactivity between users and data, users and graphics that can promote the co-understanding of territories
-- The logics of actors (institutional vs. private vs. associative) in the provision of tools dedicated to the understanding of territories
-- The stakes of (geo)digital literacy in the appropriation and use of geovisualization tools in the understanding of territories
-- The stakes in terms of training of (future) practitioners in the appropriation of geovisualization tools
+– Dykes J., MacEachren A. M., Kraak M.-J. (eds.), 2005, Exploring Geovisualization, Amsterdam, Elsevier.
+– Elwood S., 2009, “Geographic Information Science: New Geovisualization Technologies – Emerging Questions and Linkages with GIScience Research”, Progress in Human Geography, 33(2), p. 256-263.
+– Genevois S., 2007, “NASA Worldwind, Google Earth, Géoportail à l’école : un monde à portée de clic ?”, Mappemonde, 85(1).
+– Genevois S., 2016, “Outils géomatiques et apprentissages en géographie : quels enjeux du point de vue de la recherche en éducation ?”, Les Sciences de l’éducation - Pour l’Ère nouvelle, 49(4), p. 93-116.
+– Hemmersam P., Martin N., Westvang E., Aspen J., Morrison A., 2015, “Exploring Urban Data Visualization and Public Participation in Planning”, Journal of Urban Technology, 22(4), p. 45-64.
+– Joliveau T., Noucher M., Couderchet L., Caquard S., 2017, “Enseigner le géoweb par la pratique et la critique. Retour sur sept années de cours à distance”, Ingénierie des systèmes d’information, 22(5).
+– Kitchin R., Alauriault T.P., MacArdle G., 2017, Data and the City, London, Routledge.
+Kitchin R., Maalsen S., McArdle G., 2016, “The Praxis and Politics of Building Urban Dashboards”, Geoforum, no. 77, p. 93-101.
+– Le Roy A., Ottaviani R., 2013, “Mesurer pour comprendre les dynamiques territoriales et nourrir les politiques locales”, Géographie, économie, société, 15(4), p. 345-364.
+– MacEachren A. M., Kraak M.-J., 2001, “Research Challenges in Geovisualization”, Cartography and Geographic Information Science, 28(1), p. 3-12.
+– Mericskay B., 2021, “Les effets de l’open data et du big data dans la fabrique des cartes de l’action publique : entre repositionnement des acteurs et démonopolisation de l’expertise autour des données territoriales”, in T. Aguilera, F. Artioli, L. Barrault-Stella, E. Hellier and R. Pasquier (eds.), Les cartes de l’action publique. Pouvoirs, territoires, résistances, Villeneuve d’Ascq, Presses universitaires du Septentrion, p. 107-128.
+– Mericskay B., 2021, “Le crowdsourcing urbain comme nouvelle forme d’engagement citoyen. Étude de cas autour du service de signalement d’anomalies DansMaRue de la ville de Paris”, Netcom, 35(1-2).
+– Shneiderman B., 1996, “The Eyes Have it: A Task by Data Type Taxonomy for Information Visualizations”, Proceedings of IEEE Symposium on Visual Languages, p. 336-343.
+– Thakuriah P. V., Tilahun N., Zellner M., 2017, “Big Data and Urban Informatics: Innovations and Challenges to Urban Planning and Knowledge Discovery”, Seeing Cities through Big Data. Research Methods and Applications in Urban Informatics, Cham, Springer, p. 11-45.
+– Victorelli E. Z., Dos Reis J. C., Hornung H., Prado A. B., 2020, “Understanding Human-Data Interaction: Literature Review and Recommendations for Design”, International Journal of Human-Computer Studies, no. 134, p. 13-32.
+– Wang L., Wang G., Alexander C. A., 2015, “Big Data and Visualization: Methods, Challenges and Technology Progress”, Digital Technologies, 1(1), p. 33-38.
